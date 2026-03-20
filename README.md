@@ -1,4 +1,4 @@
-# Template Oficial Argentina.gob.ar
+# Template Argentina.gob.ar
 ## Base de Diseño para Proyectos
 
 Este repositorio contiene la estructura técnica y visual estandarizada de **Argentina.gob.ar** (Sistema Poncho). Ha sido diseñado para servir como punto de partida sólido y reutilizable para cualquier nuevo proyecto web que requiera alinearse con la identidad institucional nacional.
